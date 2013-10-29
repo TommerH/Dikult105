@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<!--Viewport meta til iphone skalasjon!-->
+		<meta name="viewport" content="width=device-width, intitial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<title>Glider Collider</title>
+ 	</head>
+</html>
+
+<body>
+	<div id="pagewrap">
+		<header id="header">
+			<img src="img/header.png" id="rb">
+			<nav id="nav">
+				<a href=""><img src="img/menyknapp.png" alt=""/></a> 
+			 	<a href=""><img src="img/menyknapp.png" alt=""/></a> 
+			 	<a href=""><img src="img/menyknapp.png" alt=""/></a> 
+			 	<a href=""><img src="img/menyknapp.png" alt=""/></a>
+			 	<a href=""><img src="img/menyknapp.png" alt=""/></a>
+			</nav>	
+		</header>
+
+		<article>
+			<section id="slider">
+				<img src="img/skisse1.png" id="rb">
+			</section>
+
+			<section id="news">
+				<p>2</p>
+			</section>
+
+			<section id="events">
+				<p>JEG VIL HA KAFFE, GRY!!!!!!!!!!!!!!!!!</p>
+
+			</section>
+
+		</article>
+		
+		<footer id="footer">
+				<img src="img/footer.png" id="rb">
+		</footer>
+	</div>
+
+</body>
